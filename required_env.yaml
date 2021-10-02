@@ -1,6 +1,9 @@
 channels:
 - conda-forge
 - bioconda
+- defaults
+- anaconda
 dependencies:
 - openjdk = 11.0.9.1
+- rgi = 5.2.0
 
